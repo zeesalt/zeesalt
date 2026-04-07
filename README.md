@@ -14,7 +14,7 @@ Full-stack apps and tools using AI-assisted development. 10+ years of enterprise
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| [Elevated BnB](https://app.elevated-bnb.com/)Vacation rental operations platform — property onboarding, AI quality assessments, cleaning management, guest portals, direct bookings | TypeScript, Next.js, Supabase, Claude AI, Stripe |
+| [Elevated BnB](https://app.elevated-bnb.com/) | Vacation rental operations platform — property onboarding, AI quality assessments, cleaning management, guest portals, direct bookings | TypeScript, Next.js, Supabase, Claude AI, Stripe |
 | [TrailClear](https:/www.trailclear.com) | Mountain bike trail spring closure tracker for Boston-area parks | TypeScript, React |
 | [HOA Tracker](https://hoa-tracker-gules.vercel.app) | Homeowners association activity tracker that saves admin busywork | JavaScript |
 | [AutoResearch](https://github.com/zeesalt/autoresearch-karpathy) | AI agents running research on single-GPU nanochat training | Python |
