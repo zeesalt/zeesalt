@@ -1,18 +1,25 @@
 # Hi, I'm Z Kemecsei
 
+Product manager tired of writing specs. Now I just build the product.
+
 ## What I Build
-AI-powered tools that solve real product management problems — from workflow automation to discovery and prototyping. 10+ years of enterprise product leadership, now building in the open.
+Full-stack apps and tools using AI-assisted development. 10+ years of enterprise product leadership, now shipping in the open with Claude Code as my engineering team.
 
 ## What I'm Working On
-- 🔨 Building apps and PM productivity tools with AI
-- 📚 Exploring AI agents for product operations and workflow automation
+- 🏠 **Elevated BnB** — Multi-tenant vacation rental SaaS (founder)
+- 🚴 Building side projects that scratch real itches
 - 🤝 Open to PM roles at AI-first companies
 
 ## Featured Projects
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| [HOA-Tracker](https://github.com/zeesalt/HOA-Tracker) | Streamlines homeowners association administration | JavaScript |
+| **Elevated BnB** | Vacation rental operations platform — property onboarding, AI quality assessments, cleaning management, guest portals, direct bookings | TypeScript, Next.js, Supabase, Claude AI, Stripe |
+| [DCR Trail Status](https://dcr-trail-status.vercel.app) | Mountain bike trail spring closure tracker for Boston-area parks | TypeScript, React |
+| [HOA Tracker](https://hoa-tracker-gules.vercel.app) | Homeowners association activity tracker that saves admin busywork | JavaScript |
+| [Receipt Scanner](https://elevated-receipts.vercel.app) | Receipt scanning and organization tool | TypeScript |
+| [AutoResearch](https://github.com/zeesalt/autoresearch-karpathy) | AI agents running research on single-GPU nanochat training | Python |
+| [PM GitHub Starter Kit](https://github.com/zeesalt/pm-github-starter-kit) | Templates, AI coding prompts, and a 3-week checklist to build a PM GitHub that gets you hired | Markdown |
 
 ## Background
 Most recently Product Lead of Mobile at Origami Risk, where I launched a 0→1 platform serving 200K+ users across 200+ enterprise accounts (~$7M net-new ARR). Built AI agents, product observability systems, and led cross-functional teams. Previously spent 7 years at PwC leading digital transformation for Fortune 500 insurance and financial services clients.
@@ -22,4 +29,4 @@ Most recently Product Lead of Mobile at Origami Risk, where I launched a 0→1 p
 - 📧 [Email](mailto:zsolt.kemecsei@gmail.com)
 
 ---
-*PM who builds things. Currently exploring AI agents and developer tools.*
+*PM who builds things. Shipping with AI-assisted development.*
