@@ -1,4 +1,4 @@
-# Hi, I'm Zsolt Kemecsei
+# Hi, I'm Z Kemecsei
 
 ## What I Build
 AI-powered tools that solve real product management problems — from workflow automation to discovery and prototyping. 10+ years of enterprise product leadership, now building in the open.
